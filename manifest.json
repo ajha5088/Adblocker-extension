@@ -6,10 +6,5 @@
     "background":{
         "scripts": ["background.js"]
     },
-    "icons":{
-        "16":"icons/logox16.16.png",
-        "48":"icons/logo_48x48.png",
-        "128":"icons/logo_128x128.png"
-    },
     "manifest_version":2
 }
